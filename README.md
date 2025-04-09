@@ -5,7 +5,7 @@
 &nbsp; 
 > - 이메일 : sunha9240@gmail.com
 > - 블로그 : https://sunha0813.tistory.com/
-> - 유튜브 :https://www.youtube.com/channel/UCus_uDMJM0NvKRXMa1R9yaw
+> - 유튜브 : https://www.youtube.com/channel/UCus_uDMJM0NvKRXMa1R9yaw
 
 &nbsp; 
 
