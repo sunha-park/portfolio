@@ -1,7 +1,5 @@
 # 📜 박선하 포트폴리오
 
-# 📞 Contact
-
 - 이메일 : sunha9240@gmail.com
 - 블로그 : <a href="https://sunha0813.tistory.com/">
   <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
