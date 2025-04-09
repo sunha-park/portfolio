@@ -15,21 +15,14 @@
 
 > 여행보험 추천 _(개인 프로젝트)_
 >
-> - 개발기간 : 2024.10.21 ~10.29
-> - 주요 기능 : LLM, RAG
->   ① 성별,나이,여행기간 등 맞춤형 여행 보험 추천
->   ② RAG 시스템 챗봇 서비스
->> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
->> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
->
->> Front-end
->> - Language : javascript
->> - Skill : React.js
->>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+> [개발기간] 2024.10.21 ~10.29
+> [주요 기능] LLM, RAG
+> ① 성별,나이,여행기간 등 맞춤형 여행 보험 추천
+> ② RAG 시스템 챗봇 서비스
+> [기술스택]
+> - 프론트엔드: HTML, CSS
+> - 백엔드: Python, Flask, GCP
+
 
 <br />
 
