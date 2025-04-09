@@ -129,24 +129,24 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
+        <a href="https://www.youtube.com/watch?v=o9qifqO63rU" title="챗봇/LLM/RAG/감정분석/부동산/메모일정관리">
+          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="챗봇/LLM/RAG/감정분석/부동산/메모일정관리">
         </a>
       </td>
       <td>
-        <a href="https://youtu.be/HR1b2hrxvbY" title="사오이십조 - DRF 5일차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="사오이십조 - DRF 5일차 스터디영상">
+        <a href="https://www.youtube.com/watch?v=4G4kfpR3Djg&t=2s" title="챗봇/LLM/RAG/해외여행보험">
+          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="챗봇/LLM/RAG/해외여행보험">
         </a>
       </td>
       <td>
-        <a href="https://youtu.be/nXTzsSGfIbg" title="사오이십조 - 220624아침퀴즈 스터디영상">
-        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="사오이십조 - 220624아침퀴즈 스터디영상">
+        <a href="https://www.youtube.com/watch?v=IDgNXjgkNpg&t=3s" title="데이터분석/LSTM/미세먼지/웹개발">
+        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="데이터분석/LSTM/미세먼지/웹개발">
           </a>
       </td>
     </tr>
   </tbody>
 </table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
+> <b><em><a href="https://www.youtube.com/@i_wannabe_drunk">영상 더보기</a></em></b>
 
 
 <br />
