@@ -27,11 +27,11 @@
 >
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/sunha-park/Travel-Insurance-Chatbot)
 
 <br />
 
-### 2. 🛫 감정분석 부동산 챗봇 _(개인)_
+### 2. 🏠 감정분석 부동산 챗봇 _(개인)_
 
 > **[개발기간]** <br />
 > 2024.11.06 ~11.12 (7일)
@@ -46,11 +46,11 @@
 >
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명]()
 
 <br />
 
-### 3. 🛫 부동산 관련 법률 챗봇 _(개인)_
+### 3. 👨‍⚖️ 부동산 관련 법률 챗봇 _(개인)_
 
 > **[개발기간]** <br />
 > 2024.11.18 ~11.22 (5일)
@@ -63,11 +63,11 @@
 >
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/sunha-park/LawChatbot)
 
 <br />
 
-### 4. 🛫 미세먼지 농도 예측 _(개인)_
+### 4. 📊 미세먼지 농도 예측 _(개인)_
 
 > **[개발기간]** <br />
 > 2024.12.02 ~ 12.06 (5일)
@@ -80,11 +80,11 @@
 >
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/sunha-park/FineDustProject)
 
 <br />
 
-### 5. 🛫 유니콘 기업 등극 가능성 예측 _(개인)_
+### 5. 📈 유니콘 기업 등극 가능성 예측 _(개인)_
 
 > **[개발기간]** <br />
 > 2024.12.09 ~ 12.13 (5일)
@@ -98,12 +98,12 @@
 >
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/sunha-park/UnicornPredictProject)
 
 <br />
 
 
-### 6. 🛫 WMS 물류창고관리 시스템  _(팀)_
+### 6. 📦 WMS 물류창고관리 시스템  _(팀)_
 
 > **개발인원 5명**
 >
@@ -119,7 +119,7 @@
 >
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명]()
 
 <br />
 
