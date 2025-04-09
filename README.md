@@ -1,17 +1,18 @@
 # 📜 박선하 포트폴리오
 
 안녕하세요! ***팀과 함께 문제를 해결하며 최적의 결과를 이끌어내는 것을 좋아합니다.***
+
 6개월간 개인 및 팀 프로젝트를 진행하며 풀스택 개발자 역량을 길렀고, 일련의 과정들을 ***영상***으로 기록했습니다.
+
 프로젝트 진행 과정에서 예상치 못한 변수가 발생할 때마다 문제를 함께 해결해 나가는 과정을 통해 신뢰를 쌓았고
+
 팀원들로부터 ***계속 함께 일하고 싶은 사람***이라는 말을 들어왔습니다.
 
+<br />
+
 > - 이메일 : sunha9240@gmail.com
->  블로그 : <a href="https://sunha0813.tistory.com/">
-  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
-  </a>
->  유튜브 :<a href="https://www.youtube.com/channel/UCus_uDMJM0NvKRXMa1R9yaw">
-  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
-  </a>
+> - 블로그 : https://sunha0813.tistory.com/
+> - 유튜브 :https://www.youtube.com/channel/UCus_uDMJM0NvKRXMa1R9yaw
 
 <br />
 
