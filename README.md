@@ -18,15 +18,13 @@
 > **[개발기간]** <br />
 > 2024.10.21 ~10.29 (10일)
 > 
-> **[주요기능] LLM, RAG** <br />
+> **[주요기능]** <br />
 > ① 성별,나이,여행기간 등 맞춤형 여행 보험 추천 <br />
-> ② RAG 시스템 챗봇 서비스 <br />
+> ② **LLM, RAG** 시스템 챗봇 서비스 <br />
 
-> **[FrontEnd]** <br />
-> HTML, CSS <br />
+> **[FrontEnd]**  HTML, CSS <br />
 
-> **[BackEnd]** <br />
-> Python, Flask, GCP, MariaDB
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
 
 
 <br />
