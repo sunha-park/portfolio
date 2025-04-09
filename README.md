@@ -26,8 +26,7 @@
 
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 
-> **[바로가기]**  (https://github.com/kimphysicsman/mylittleshoes_backend)
-
+> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
 
