@@ -11,10 +11,8 @@
 
 ## 📝Projects
 
-### 1. 🛫 해외여행보험 챗봇
+### 1. 🛫 해외여행보험 챗봇 _(개인 프로젝트)_
 
-> **여행보험 추천 _(개인 프로젝트)_**
->
 > **[개발기간]** <br />
 > 2024.10.21 ~10.29 (10일)
 > 
@@ -30,69 +28,98 @@
 
 <br />
 
-## 2. 👞 MyLittleShoes
+### 2. 🛫 감정분석 부동산 챗봇 _(개인 프로젝트)_
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+> **[개발기간]** <br />
+> 2024.11.06 ~11.12 (7일)
+> 
+> **[주요기능]** <br />
+> ① 매물 정보 확인 서비스 <br />
+> ② 일정 및 메모 기록 서비스
+> ③ 메모 감정 분석 서비스
+> ② **LLM, RAG** 시스템 챗봇 서비스 <br />
 >
-> - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
+> **[FrontEnd]**  HTML, CSS <br />
+>
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
 
-## 3. 🍻 MyLittleBeer
+### 3. 🛫 부동산 관련 법률 챗봇 _(개인 프로젝트)_
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> **[개발기간]** <br />
+> 2024.11.18 ~11.22 (5일)
+> 
+> **[주요기능]** <br />
+> ① 로그인 및 회원가입 서비스 <br />
+> ② 부동산 관련 법률 **LLM, RAG** 시스템 챗봇 서비스 <br />
 >
-> - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
+> **[FrontEnd]**  HTML, CSS <br />
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
 
-## 4. 👊 MyLittelHero
+### 4. 🛫 미세먼지 농도 예측 _(개인 프로젝트)_
 
-> 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> **[개발기간]** <br />
+> 2024.12.02 ~ 12.06 (5일)
+> 
+> **[주요기능]** <br />
+> ① 관리자 페이지: 새롭게 업데이트된 데이터를 **LSTM** 학습 모델로 추가 학습 <br />
+> ② 홈 페이지: 미세먼지 실제/예측값 확인
 >
-> - 개발기간 : 2022.05.18-25
-> - 핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
-> - Language : python3   
-> - Skill : flask, mongoDB
+> **[FrontEnd]** React, HTML, CSS
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
 
-## 5. 🎮 Sparta Fighter
+### 5. 🛫 유니콘 기업 등극 가능성 예측 _(개인 프로젝트)_
 
-> 2d 횡스크롤 격투 게임 _(내일배움캠프 - 개인 프로젝트)_
+> **[개발기간]** <br />
+> 2024.12.09 ~ 12.13 (5일)
+> 
+> **[주요기능]** <br />
+> ① 기업 재무 데이터 수동 업로드, 엑셀 파일 업로드 <br />
+> ② LSTM 기반 유니콘 기업 등극 가능성 예측
+> ② 데이터 시각화 및 결과 확인 <br />
 >
-> - 개발기간 : 2022.04.25-27
-> - 핵심 역할 : 캐릭터 클래스 구현 및 이벤트 루프 작성
-> - Language : python3
+> **[FrontEnd]**  React, HTML, CSS <br />
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/sparta_fighter)
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
 
-## 6. 🎶 RE:TRO | 그때 그 시절, 당신의 음악
 
-> 1980-2010년 뮤직 웹사이트 _(메이킹챌린지 - 코딩왕조 팀프로젝트)_
+### 6. 🛫 WMS 물류창고관리 시스템  _(팀 프로젝트)_
+
+> **개발인원 5명**
 >
-> - 개발기간 : 2022.03.02-17
-> - 핵심 역할 : 팀장, 노래 재생 기능, 좋아요 기능
-> - Language : python3, javascript
-> - Skill : flask, mongoDB
+> **[개발기간]** <br />
+> 2024.12.02 ~ 12.20 (19일)
+> 
+> **[주요기능]** <br />
+> ① 관리자: 입고,출고,재고,기자재 관리  <br />
+> ② 고객: 입고,출고 관리  <br />
+> ③ YoLo 기반 물류 바코드 인식 시스템
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/retro_main)
+> **[FrontEnd]**  React, HTML, CSS <br />
+>
+> **[BackEnd]**  Python, Flask, GCP, MariaDB
+>
+> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
+
 
 # 🎞 Youtube
 <table>
