@@ -12,11 +12,8 @@
 팀원들로부터 ***계속 함께 일하고 싶은 사람***이라는 말을 들어왔습니다.
 <br />
 <br />
-<br />
 > - 이메일 : sunha9240@gmail.com
-> - 
 > - 블로그 : https://sunha0813.tistory.com/
-> - 
 > - 유튜브 :https://www.youtube.com/channel/UCus_uDMJM0NvKRXMa1R9yaw
 
 <br />
