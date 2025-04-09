@@ -130,7 +130,7 @@
     <tr>
       <td>
         <a href="https://www.youtube.com/watch?v=o9qifqO63rU" title="챗봇/LLM/RAG/감정분석/부동산/메모일정관리">
-          <img align="center" src="[https://github.com/sunha-park/myimages/blob/main/%EA%B0%90%EC%A0%95%EB%B6%84%EC%84%9D.png](https://github.com/sunha-park/myimages/blob/main/20250409_164751.png)" width="300" alt-text="챗봇/LLM/RAG/감정분석/부동산/메모일정관리">
+          <img align="center" src="https://github.com/sunha-park/myimages/blob/main/20250409_164751.png" width="300" alt-text="챗봇/LLM/RAG/감정분석/부동산/메모일정관리">
         </a>
       </td>
       <td>
