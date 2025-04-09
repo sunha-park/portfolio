@@ -21,11 +21,11 @@
 > **[주요기능]** <br />
 > ① 성별,나이,여행기간 등 맞춤형 여행 보험 추천 <br />
 > ② **LLM, RAG** 시스템 챗봇 서비스 <br />
-
+>
 > **[FrontEnd]**  HTML, CSS <br />
-
+>
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
-
+>
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
 <br />
