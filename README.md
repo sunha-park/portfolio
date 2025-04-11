@@ -46,7 +46,7 @@
 >
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
-> [프로젝트 상세 설명]()
+> [프로젝트 상세 설명](https://github.com/sunha-park/RealEstateChatbot/tree/master)
 
 <br />
 
