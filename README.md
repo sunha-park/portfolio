@@ -19,22 +19,22 @@
     <td width="50%" valign="top" height="420" style="padding: 12px;">
       <div style="border:1px solid #ccc; border-radius:10px; padding:16px; background-color:#f9f9f9">
         
-### 1. 🛫 해외여행보험 챗봇 _(개인)_
-
-**개발기간**  
-2024.10.21 ~ 10.29 (10일)
-
-**주요기능**  
-① 성별, 나이, 여행기간 등 맞춤형 여행 보험 추천  
-② LLM, RAG 시스템 챗봇 서비스
-
-**FrontEnd**  
-HTML, CSS
-
-**BackEnd**  
-Python, Flask, GCP, MariaDB
-
-[프로젝트 상세 설명](https://github.com/sunha-park/Travel-Insurance-Chatbot)
+      ### 1. 🛫 해외여행보험 챗봇 _(개인)_
+      
+      **개발기간**  
+      2024.10.21 ~ 10.29 (10일)
+      
+      **주요기능**  
+      ① 성별, 나이, 여행기간 등 맞춤형 여행 보험 추천  
+      ② LLM, RAG 시스템 챗봇 서비스
+      
+      **FrontEnd**  
+      HTML, CSS
+      
+      **BackEnd**  
+      Python, Flask, GCP, MariaDB
+      
+      [프로젝트 상세 설명](https://github.com/sunha-park/Travel-Insurance-Chatbot)
 
       </div>
     </td>
