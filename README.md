@@ -80,7 +80,7 @@
 >
 > **[BackEnd]**  Python, Flask, GCP, MariaDB
 >
-> [프로젝트 상세 설명](https://github.com/sunha-park/FineDustProject)
+> [프로젝트 상세 설명](https://github.com/sunha-park/FineDustProject/tree/master)
 
 <br />
 
