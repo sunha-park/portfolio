@@ -16,12 +16,13 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" height="360">
-
+    <td width="50%" valign="top" height="420" style="padding: 12px;">
+      <div style="border:1px solid #ccc; border-radius:10px; padding:16px; background-color:#f9f9f9">
+        
 ### 1. 🛫 해외여행보험 챗봇 _(개인)_
 
 **개발기간**  
-2024.10.21 ~10.29 (10일)
+2024.10.21 ~ 10.29 (10일)
 
 **주요기능**  
 ① 성별, 나이, 여행기간 등 맞춤형 여행 보험 추천  
@@ -35,19 +36,21 @@ Python, Flask, GCP, MariaDB
 
 [프로젝트 상세 설명](https://github.com/sunha-park/Travel-Insurance-Chatbot)
 
-</td>
-<td width="50%" valign="top" height="360">
-
+      </div>
+    </td>
+    <td width="50%" valign="top" height="420" style="padding: 12px;">
+      <div style="border:1px solid #ccc; border-radius:10px; padding:16px; background-color:#f9f9f9">
+        
 ### 2. 🏠 감정분석 부동산 챗봇 _(개인)_
 
 **개발기간**  
-2024.11.06 ~11.12 (7일)
+2024.11.06 ~ 11.12 (7일)
 
 **주요기능**  
-① 매물 정보 확인 서비스  
-② 일정 및 메모 기록 서비스  
-③ 메모 감정 분석 서비스  
-④ LLM, RAG 시스템 챗봇 서비스
+① 매물 정보 확인  
+② 일정 및 메모 기록  
+③ 메모 감정 분석  
+④ LLM, RAG 시스템 챗봇
 
 **FrontEnd**  
 HTML, CSS
@@ -57,19 +60,22 @@ Python, Flask, GCP, MariaDB
 
 [프로젝트 상세 설명](https://github.com/sunha-park/RealEstateChatbot/tree/master)
 
-</td>
+      </div>
+    </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top" height="360">
 
+  <tr>
+    <td width="50%" valign="top" height="420" style="padding: 12px;">
+      <div style="border:1px solid #ccc; border-radius:10px; padding:16px; background-color:#f9f9f9">
+        
 ### 3. 👨‍⚖️ 부동산 관련 법률 챗봇 _(개인)_
 
 **개발기간**  
-2024.11.18 ~11.22 (5일)
+2024.11.18 ~ 11.22 (5일)
 
 **주요기능**  
-① 로그인 및 회원가입 서비스  
-② 부동산 관련 법률 LLM, RAG 시스템 챗봇 서비스
+① 로그인 및 회원가입  
+② 부동산 관련 법률 LLM, RAG 챗봇
 
 **FrontEnd**  
 HTML, CSS
@@ -79,8 +85,10 @@ Python, Flask, GCP, MariaDB
 
 [프로젝트 상세 설명](https://github.com/sunha-park/LawChatbot/tree/main)
 
-</td>
-<td width="50%" valign="top" height="360">
+      </div>
+    </td>
+    <td width="50%" valign="top" height="420" style="padding: 12px;">
+      <div style="border:1px solid #ccc; border-radius:10px; padding:16px; background-color:#f9f9f9">
 
 ### 4. 📊 미세먼지 농도 예측 _(개인)_
 
@@ -88,7 +96,7 @@ Python, Flask, GCP, MariaDB
 2024.12.02 ~ 12.06 (5일)
 
 **주요기능**  
-① 관리자 페이지: 새롭게 업데이트된 데이터를 LSTM 학습 모델로 추가 학습  
+① 관리자 페이지: LSTM 추가 학습  
 ② 홈 페이지: 미세먼지 실제/예측값 확인
 
 **FrontEnd**  
@@ -99,20 +107,23 @@ Python, Flask, GCP, MariaDB
 
 [프로젝트 상세 설명](https://github.com/sunha-park/FineDustProject/tree/master)
 
-</td>
+      </div>
+    </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top" height="360">
 
-### 5. 📈 유니콘 기업 등극 가능성 예측 _(개인)_
+  <tr>
+    <td width="50%" valign="top" height="420" style="padding: 12px;">
+      <div style="border:1px solid #ccc; border-radius:10px; padding:16px; background-color:#f9f9f9">
+
+### 5. 📈 유니콘 기업 예측 _(개인)_
 
 **개발기간**  
 2024.12.09 ~ 12.13 (5일)
 
 **주요기능**  
-① 기업 재무 데이터 수동 업로드, 엑셀 파일 업로드  
-② LSTM 기반 유니콘 기업 등극 가능성 예측  
-③ 데이터 시각화 및 결과 확인
+① 기업 재무 엑셀 업로드  
+② LSTM 기반 유니콘 예측  
+③ 결과 시각화
 
 **FrontEnd**  
 React, HTML, CSS
@@ -122,10 +133,12 @@ Python, Flask, GCP, MariaDB
 
 [프로젝트 상세 설명](https://github.com/sunha-park/UnicornPredictProject)
 
-</td>
-<td width="50%" valign="top" height="360">
+      </div>
+    </td>
+    <td width="50%" valign="top" height="420" style="padding: 12px;">
+      <div style="border:1px solid #ccc; border-radius:10px; padding:16px; background-color:#f9f9f9">
 
-### 6. 📦 WMS 물류창고관리 시스템 _(팀)_
+### 6. 📦 WMS 물류창고 시스템 _(팀)_
 
 **개발인원**  
 5명
@@ -134,9 +147,9 @@ Python, Flask, GCP, MariaDB
 2024.12.02 ~ 12.20 (19일)
 
 **주요기능**  
-① 관리자: 입고, 출고, 재고, 기자재 관리  
-② 고객: 입고, 출고 관리  
-③ YOLO 기반 물류 바코드 인식 시스템
+① 관리자: 입고/출고/재고/기자재 관리  
+② 고객: 입출고 확인  
+③ YOLO 기반 바코드 인식
 
 **FrontEnd**  
 React, HTML, CSS
@@ -146,9 +159,11 @@ Python, Flask, GCP, MariaDB
 
 [프로젝트 상세 설명]()
 
-</td>
+      </div>
+    </td>
   </tr>
 </table>
+
 
 
 
